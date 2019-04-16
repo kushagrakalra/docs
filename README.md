@@ -48,7 +48,7 @@ Aviator is already optimised for adding, updating and removing documentation pag
 
 ### Usage
 
-* Each section is a different collection, this helps organise your content.
+* Each section is a different collection, this helps organize your content.
 * Set the order of the collections with the position field in collection configuration in `_config.yml`.
 * Set the order of the documents inside a collection by setting the position in front matter.
 
